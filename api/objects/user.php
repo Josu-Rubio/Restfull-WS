@@ -16,8 +16,8 @@ class User{
         $this->conn = $db;
     }
 
-    //singup user
-    function singup(){
+    //signup user
+    function signup(){
 
         if($this->isAlreadyExist()){
             return false;
