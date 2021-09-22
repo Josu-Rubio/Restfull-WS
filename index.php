@@ -6,4 +6,3 @@
    echo "The answer to life the universe and everything is $answer\n";
 ?>
 </p>
-<p>Yes another paragraph.</p>
